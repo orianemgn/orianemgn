@@ -1,8 +1,8 @@
 ### Hi there, I am Oriane 👋
 
 
-- 🔭 I’m recently graduated from Ironhack's Web Development Bootcamp
-- 🌱 I am currently havin fun with Javascript every morning as part of [Kater Klub](https://github.com/orianemgn/Kater-Klub), have a look! 
+- 🔭 I’m taking part at the Wild Code School Web development course 
+- 🌱 I had fun with Javascript every morning as part of [Kater Klub](https://github.com/orianemgn/Kater-Klub), have a look! 
 - 👯 I’m looking to collaborate on smart web dev projects, designed for the user 
 
 
