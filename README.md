@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on smart web dev projects, designed for the user 
 
 
-## I am looking for a great company where I keep developing my skills
+## I am looking for a great company where I keep developing my skills after the Wild Code School
 
 
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/magninoriane/)
